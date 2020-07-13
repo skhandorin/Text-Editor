@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Problems/Don't be late again/out/
+/Problems/Don't be late again/out/production/classes/
+/Problems/The intersection of time ranges/out/
+/Problems/The intersection of time ranges/out/production/classes/
+/Problems/The New Year is coming (or not)/out/
+/Problems/The New Year is coming (or not)/out/production/classes/
+/Text Editor/task/build/
+/Text Editor/task/out/
+/Text Editor/task/out/production/classes/
